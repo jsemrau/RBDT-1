@@ -1,0 +1,11 @@
+pv, w, m , Decision?
+yes, sunny, rich, cinema
+no, sunny, rich, tennis
+yes, windy, rich, cinema
+yes, rainy, rich, cinema
+no, rainy, poor, stay-in
+yes, rainy, poor, cinema
+no, windy, poor, cinema
+no, windy, rich, shopping
+yes, windy, rich, cinema
+no, sunny, poor, tennis

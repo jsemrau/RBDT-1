@@ -1,0 +1,5 @@
+yes dontcare rich cinema
+no windy poor cinema
+no windy rich shopping
+no sunny dontcare tennis
+no rainy poor stay-in
